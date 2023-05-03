@@ -1,0 +1,13 @@
+:root{
+    --color_1:;
+    --color_2:;
+    --color_3:;
+    --color_4:;
+    --color_5:;
+}
+
+*{
+    margin:0;
+    padding: 0;
+    box-sizing: border-box;
+}
